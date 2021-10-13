@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  Lesson_25
+
+  Created by Evgeniy Nosko on 13.10.21.
+  
+*/
+"ViewController.HelloThisIsTestApp%@" = "Привет, %@. Это тестовое приложение";
